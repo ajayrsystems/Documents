@@ -1,0 +1,2 @@
+Tutorial: Create and deploy an application with an ASP.NET Core Web API front-end service and a stateful back-end service ------Azure Servcie Fabric
+https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-dotnet-app
